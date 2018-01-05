@@ -1,0 +1,4 @@
+var deom=function  self-introduction（）{
+      return "我是一个来自大城市秦皇岛的大伙子，我叫吴玉荣，英文名字：SuperMan。家里山美水美人更美。有女孩子来旅游可以来找我，男孩子--还是好好挣钱吧，还旅什么游!" 
+}
+module.exports=deom;
